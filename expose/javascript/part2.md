@@ -38,3 +38,5 @@ e) false, true is converted to 1, 1 != 2
 f) true, Boolean(2) is converted to true and true === true
 ````
 15. == compares two values and converts them to numbers if they are not the same type; === is strict equality and compares two values for type and value
+17. [2,4,6] is returned. The function declares a new array, then loops through all elements in the input array and calls callback, the function doSomething, which multiplies the value by 2 and stores it in the returned array.
+19. 1 4 3 2
